@@ -1,0 +1,17 @@
+{
+  "name": "on-mouse-left-window",
+  "repo": "airportyh/on-mouse-left-window",
+  "description": "Event handler for when the user's mouse has left the window.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/bind": "*",
+    "component/event": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
