@@ -1,5 +1,5 @@
 
-# mouse_left_window
+# On-Mouse-Left-Window
 
   Event handler for when the user's mouse has left the window.
 
