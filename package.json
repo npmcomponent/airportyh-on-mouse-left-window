@@ -1,0 +1,12 @@
+{
+  "name": "airportyh-on-mouse-left-window",
+  "description": "Event handler for when the user's mouse has left the window.",
+  "version": "0.0.1",
+  "keywords": [],
+  "main": "index.js",
+  "dependencies": {
+    "component-bind": "git://github.com/npmcomponent/component-bind.git",
+    "component-event": "git://github.com/npmcomponent/component-event.git"
+  },
+  "license": "MIT"
+}

@@ -1,4 +1,4 @@
-var event = require('event')
+var event = require('component-event')
 
 // based on <http://stackoverflow.com/questions/923299/how-can-i-detect-when-the-mouse-leaves-the-window>
 event.bind(window, 'mouseout', function(e){
